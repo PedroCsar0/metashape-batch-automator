@@ -1,0 +1,1 @@
+# metashape-batch-automator
