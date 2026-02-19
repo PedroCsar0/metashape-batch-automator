@@ -37,7 +37,7 @@ Execute o script passando os parâmetros necessários. Exemplo:
 python automator.py --input "C:/imagens_voo/fazenda_alvo" --output "C:/resultados/ortomosaicos" --quality high
 ```
 
-## Roadmap
+Roadmap
 
 • [ ] Implementar leitura de logs de voo para processamento PPK (Post-Processed Kinematic) automatizado.
 
@@ -45,7 +45,7 @@ python automator.py --input "C:/imagens_voo/fazenda_alvo" --output "C:/resultado
 
 • [ ] Geração automática de relatórios de processamento em PDF.
 
-## Autor
+Autor
 Pedro
 
 Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request se tiver ideias para melhorar o pipeline!
