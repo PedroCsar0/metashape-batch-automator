@@ -37,16 +37,17 @@ Execute o script passando os parâmetros necessários. Exemplo:
 python automator.py --input "C:/imagens_voo/fazenda_alvo" --output "C:/resultados/ortomosaicos" --quality high
 ```
 
-Roadmap
+## Roadmap
 
-• [ ] Implementar leitura de logs de voo para processamento PPK (Post-Processed Kinematic) automatizado.
+- [ ] Implementar leitura de logs de voo para processamento PPK (Post-Processed Kinematic) automatizado.
+- [ ] Adicionar suporte para importação de coordenadas de Pontos de Controle (GCPs).
+- [ ] Geração automática de relatórios de processamento em PDF.
 
-• [ ] Adicionar suporte para importação de coordenadas de Pontos de Controle (GCPs).
+## Autor
 
-• [ ] Geração automática de relatórios de processamento em PDF.
+**Pedro César Rocha Vanzela**
 
-Autor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroce)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvanzela6@gmail.com)
 
-Pedro
-
-Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request se tiver ideias para melhorar o pipeline!
+Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request** se tiver ideias para melhorar o pipeline!
